@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626498202829",
+    "firebase_url": "https://bluebeds-9666a.firebaseio.com",
+    "project_id": "bluebeds-9666a",
+    "storage_bucket": "bluebeds-9666a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626498202829:android:8275524ca0c5f44f",
+        "android_client_info": {
+          "package_name": "com.example.bb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626498202829-7brhke8fevf1k86tpir0dkjash8aomah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bb",
+            "certificate_hash": "e52b31d1058d48b736bb05e8c6831469ee721f56"
+          }
+        },
+        {
+          "client_id": "626498202829-gemk5e68ekqqff310f86hd886n3jdlq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNqxuC3wN-OEq1EduYm0ab6RLZbFXXZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626498202829-gemk5e68ekqqff310f86hd886n3jdlq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
